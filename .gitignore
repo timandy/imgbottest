@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+clst-api2
+/main.exe
+out/
+statik/
+logs/
