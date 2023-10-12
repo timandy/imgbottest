@@ -1,0 +1,8 @@
+{
+  "schedule": "daily",
+  "aggressiveCompression": "true",
+  "compressWiki": "true",
+  "minKBReduced": 20,
+  "prTitle": "You have image be optimized!",
+  "prBody": " Text before optimization ratio {optimization_ratio} Text after optimization ratio\n Text before optimization details {optimization_details} Text after optimization details"
+}
